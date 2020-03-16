@@ -1,0 +1,110 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/BSTree.h
+stdio.h
+-
+
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Borrow.h
+Transaction.h
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Transaction.h
+Customer.h
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Customer.h
+iostream
+-
+
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Classic.h
+Movie.h
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Movie.h
+
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Comedy.h
+Movie.h
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Movie.h
+
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Customer.cpp
+sstream
+-
+Customer.h
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Customer.h
+fstream
+-
+
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Customer.h
+iostream
+-
+vector
+-
+History.h
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/History.h
+
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Drama.h
+Movie.h
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Movie.h
+
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Factory.cpp
+Factory.h
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Factory.h
+fstream
+-
+sstream
+-
+
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Factory.h
+iostream
+-
+fstream
+-
+Transaction.h
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Transaction.h
+HashTable.h
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/HashTable.h
+Borrow.h
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Borrow.h
+Return.h
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Return.h
+Inventory.h
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Inventory.h
+
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/HashTable.h
+Customer.h
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Customer.h
+
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/History.h
+iostream
+-
+
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Inventory.h
+Movie.h
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Movie.h
+Comedy.h
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Comedy.h
+Drama.h
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Drama.h
+Classic.h
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Classic.h
+BSTree.h
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/BSTree.h
+
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Movie.h
+iostream
+-
+
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Return.h
+Transaction.h
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Transaction.h
+Customer.h
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Customer.h
+iostream
+-
+
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Transaction.h
+iostream
+-
+Customer.h
+/Users/Tomomi/CLionProjects/CSS343/Project 4 final/Customer.h
+
