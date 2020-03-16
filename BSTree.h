@@ -1,6 +1,3 @@
-//
-// Created by Elhadj Diallo on 3/10/20.
-//
 
 #ifndef PROJECT4_BSTREE_H
 #define PROJECT4_BSTREE_H
